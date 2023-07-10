@@ -1,16 +1,17 @@
-### Hi there 👋
+# My personal projects 
+![Adventure](https://img.freepik.com/free-vector/flat-adventure-background-with-mountains_23-2149045825.jpg)
 
-<!--
-**martin-corpus/martin-corpus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Kia Ora! Welcome to **_Martin_**'s [DevAcademy](https://devacademy.co.nz/?gclid=Cj0KCQjw27mhBhC9ARIsAIFsETFIM6MFVhEWNHE4phYaLm9LgSWBypcddty_tVSasadIbnbMHGabW9oaAiFtEALw_wcB) Adventure  
+&nbsp;    
+This blog will showcase my progress in creating my very first website by utilizing what I have learned in `HTML`, `CSS`, `Javascript`, `DOM`, `GitHub`, `Command Line` and `VS Coder`.   
+&nbsp;  
+## [Website](https://martin-corpus.github.io/index.html) Content:
+   + Index Page
+   + The Story of Te Houtaewa
+   + Core Blogs:  
+      + Identity Values
+      + Learning Plan
+      + Emotional Intelligence
+   + Tech Blogs:  
+      + html/css - Margin, Border and Padding
+      + Javascript Fundamentals and DOM
